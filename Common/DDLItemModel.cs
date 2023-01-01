@@ -10,3 +10,4 @@ namespace GM.Model.Common
       public object Value4       { get; set; }   
       public string errormessage { get; set; }  
    }
+}
