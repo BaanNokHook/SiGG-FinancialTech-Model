@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\bin\Debug\netstandard2.0\GM.Model.deps.json
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\bin\Debug\netstandard2.0\GM.Model.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\bin\Debug\netstandard2.0\GM.Model.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.AssemblyInfo.cs
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.Model\obj\Debug\netstandard2.0\GM.Model.pdb
